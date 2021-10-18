@@ -1,10 +1,10 @@
 /*----------------------------------------------------------------------------*/
 /*                                                                            */
 /*    Module:       main.cpp                                                  */
-/*    Author:       2602E                                                       */
+/*    Author:       yes                                                       */
 /*    Created:      Wed Sep 25 2019                                           */
-/*    Description:  Tank Drive                                                */
-/*    This sample allows you to control the V5 Clawbot using the both         */
+/*    Description:  2602E                                                     */
+/*    This is the program for this year                                        */
 /*    joystick. Adjust the deadband value for more accurate movements.        */
 /*----------------------------------------------------------------------------*/
 
